@@ -20,22 +20,7 @@ function TestWeb() {
           </CCardHeader>
           <CCardBody>
             <div style={{ padding: "1rem", lineHeight: "1.6rem" }}>
-              Để nâng cao chất lượng xây dụng đội ngũ cán bộ, nhân viên, đáp ứng yêu cầu nhiệm vụ
-              xây dụng ngành Cơ yếu Việt nam cách mạng, chính quy, tiến thảng đến hiện đại,
-              Ban Cơ yếu Chính phủ hướng dẫn các cơ quan , đơn vị việc tổ chức kiểm tra cán bộ, nhân viên năm 2021:
-              Để nâng cao chất lượng xây dụng đội ngũ cán bộ, nhân viên, đáp ứng yêu cầu nhiệm vụ
-              xây dụng ngành Cơ yếu Việt nam cách mạng, chính quy, tiến thảng đến hiện đại,
-              Ban Cơ yếu Chính phủ hướng dẫn các cơ quan , đơn vị việc tổ chức kiểm tra cán bộ, nhân viên năm 2021:
-              Để nâng cao chất lượng xây dụng đội ngũ cán bộ, nhân viên, đáp ứng yêu cầu nhiệm vụ
-              xây dụng ngành Cơ yếu Việt nam cách mạng, chính quy, tiến thảng đến hiện đại,
-              Ban Cơ yếu Chính phủ hướng dẫn các cơ quan , đơn vị việc tổ chức kiểm tra cán bộ, nhân viên năm 2021:
-              Để nâng cao chất lượng xây dụng đội ngũ cán bộ, nhân viên, đáp ứng yêu cầu nhiệm vụ
-              xây dụng ngành Cơ yếu Việt nam cách mạng, chính quy, tiến thảng đến hiện đại,
-              Ban Cơ yếu Chính phủ hướng dẫn các cơ quan , đơn vị việc tổ chức kiểm tra cán bộ, nhân viên năm 2021:
-
-              Để nâng cao chất lượng xây dụng đội ngũ cán bộ, nhân viên, đáp ứng yêu cầu nhiệm vụ
-              xây dụng ngành Cơ yếu Việt nam cách mạng, chính quy, tiến thảng đến hiện đại,
-              Ban Cơ yếu Chính phủ hướng dẫn các cơ quan , đơn vị việc tổ chức kiểm tra cán bộ, nhân viên năm 2021:
+              sdfsdfasdfasfasdfasdfadsf
             </div>
           </CCardBody>
 
